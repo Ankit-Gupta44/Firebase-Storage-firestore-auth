@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357119402629",
+    "project_id": "assignment-wellfound",
+    "storage_bucket": "assignment-wellfound.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357119402629:android:85ff86a8d1519e8b483fec",
+        "android_client_info": {
+          "package_name": "com.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAVBJoTBvRAtCZk2DldS4cWpPzIIl7zBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
